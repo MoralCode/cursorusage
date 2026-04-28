@@ -148,3 +148,6 @@ notebook/templates/*.html
 
 # Temporary files used for testing
 tmp/
+
+
+cursor_usage.csv
